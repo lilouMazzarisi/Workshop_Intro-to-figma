@@ -1,6 +1,6 @@
 # Figma Workshop 
 
-![Wireframe image](images/Visuals/Header.jpg)
+![Wireframe image](Images/Visuals/Header.jpg)
 
 ## Learning objectives :  
 Understand the basic Figma functionalities (frames, components, prototypes, assets, …).
@@ -10,11 +10,11 @@ Understand how to easily build wireframes and final designs.
 ## Getting started : 
 1. Create an account : [Figma SignUp/SignIn Page](https://www.figma.com/)  
 2. Go to you personal dashboard
-![Wireframe image](images/Visuals/App.jpg)
+![Wireframe image](Images/Visuals/App.jpg)
 3. Create a new file <br>
-![Wireframe image](images/Visuals/NewFile.png)
+![Wireframe image](Images/Visuals/NewFile.png)
 3. Rename the file <br>
-![Wireframe image](images/Visuals/Rename.png)
+![Wireframe image](Images/Visuals/Rename.png)
 4. Start project Movie Rent
 
 ## Tools | Plugins : 
@@ -30,7 +30,7 @@ This workshop is part of a series of workshops whose objective is to cover the e
 This first workshop consists in creating the design of this website with a consistent and responsive UX approach. It will be declined in 2 main phases, starting with the structuring of the design, the wireframe, followed by the second part which is the building of the final visual including graphic design. 
 Each part will require the implementation of frames, components and prototypes.
 
-![Wireframe image](images/Visuals/Wireframe.jpg)
+![Wireframe image](Images/Visuals/Wireframe.jpg)
 1. Wireframe 
     - build homepage 
     - create the required components
@@ -38,7 +38,7 @@ Each part will require the implementation of frames, components and prototypes.
     - build single page 
     - build prototypes
 
-![Layout image](images/Visuals/Layout.jpg)
+![Layout image](Images/Visuals/Layout.jpg)
 2. Layout 
     - build homepage 
     - create the required components
